@@ -1,0 +1,14 @@
+C:\Users\SEG\Desktop\aula oo\bin\Debug\net10.0\aula oo.exe
+C:\Users\SEG\Desktop\aula oo\bin\Debug\net10.0\aula oo.deps.json
+C:\Users\SEG\Desktop\aula oo\bin\Debug\net10.0\aula oo.runtimeconfig.json
+C:\Users\SEG\Desktop\aula oo\bin\Debug\net10.0\aula oo.dll
+C:\Users\SEG\Desktop\aula oo\bin\Debug\net10.0\aula oo.pdb
+C:\Users\SEG\Desktop\aula oo\obj\Debug\net10.0\aula oo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEG\Desktop\aula oo\obj\Debug\net10.0\aula oo.AssemblyInfoInputs.cache
+C:\Users\SEG\Desktop\aula oo\obj\Debug\net10.0\aula oo.AssemblyInfo.cs
+C:\Users\SEG\Desktop\aula oo\obj\Debug\net10.0\aula oo.csproj.CoreCompileInputs.cache
+C:\Users\SEG\Desktop\aula oo\obj\Debug\net10.0\aula oo.dll
+C:\Users\SEG\Desktop\aula oo\obj\Debug\net10.0\refint\aula oo.dll
+C:\Users\SEG\Desktop\aula oo\obj\Debug\net10.0\aula oo.pdb
+C:\Users\SEG\Desktop\aula oo\obj\Debug\net10.0\aula oo.genruntimeconfig.cache
+C:\Users\SEG\Desktop\aula oo\obj\Debug\net10.0\ref\aula oo.dll
