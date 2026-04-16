@@ -1,0 +1,14 @@
+C:\Users\SEG\Desktop\aula 4\obj\Debug\net10.0\aula 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEG\Desktop\aula 4\obj\Debug\net10.0\aula 4.AssemblyInfoInputs.cache
+C:\Users\SEG\Desktop\aula 4\obj\Debug\net10.0\aula 4.AssemblyInfo.cs
+C:\Users\SEG\Desktop\aula 4\obj\Debug\net10.0\aula 4.csproj.CoreCompileInputs.cache
+C:\Users\SEG\Desktop\aula 4\bin\Debug\net10.0\aula 4.exe
+C:\Users\SEG\Desktop\aula 4\bin\Debug\net10.0\aula 4.deps.json
+C:\Users\SEG\Desktop\aula 4\bin\Debug\net10.0\aula 4.runtimeconfig.json
+C:\Users\SEG\Desktop\aula 4\bin\Debug\net10.0\aula 4.dll
+C:\Users\SEG\Desktop\aula 4\bin\Debug\net10.0\aula 4.pdb
+C:\Users\SEG\Desktop\aula 4\obj\Debug\net10.0\aula 4.dll
+C:\Users\SEG\Desktop\aula 4\obj\Debug\net10.0\refint\aula 4.dll
+C:\Users\SEG\Desktop\aula 4\obj\Debug\net10.0\aula 4.pdb
+C:\Users\SEG\Desktop\aula 4\obj\Debug\net10.0\aula 4.genruntimeconfig.cache
+C:\Users\SEG\Desktop\aula 4\obj\Debug\net10.0\ref\aula 4.dll
